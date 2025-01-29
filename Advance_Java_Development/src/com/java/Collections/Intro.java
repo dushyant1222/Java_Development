@@ -16,9 +16,9 @@ public class Intro {
 		
 		Set<Integer> set = new HashSet<Integer>();
 		set.add(11);
+		set.add(15);
 		set.add(11);
 		set.add(13);
-		set.add(15);
 		System.out.println(set);
 	}
 }
