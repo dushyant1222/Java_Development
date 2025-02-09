@@ -1,0 +1,7 @@
+Explain Collection Framework?
+
+A collection is an object that represents the group of objects.
+The java collection frameworks provides a set of the Interfaces and classes to
+implement the various data structures and algorithms.
+For example the LinkedList class of the collections framework provides the implementation of the doubly-linked 
+list data structure. 
